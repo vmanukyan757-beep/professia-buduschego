@@ -1,0 +1,12 @@
+{
+  "name": "profession-2035",
+  "version": "1.0.0",
+  "description": "Тест на профессию, устойчивую к замене ИИ. Дерево вопросов, счётчики и оценки.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/tree.test.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
